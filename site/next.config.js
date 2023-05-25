@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'koda\'s Registry',
+    name: 'SalaRNd Registry',
     description: 'A curated list of my kasm workspaces',
     icon: 'https://styles.redditmedia.com/t5_pzxlx/styles/profileIcon_snooe518dd85-f77f-4725-ac4a-464846a19b97-headshot.png',
-    listUrl: 'https://kodestar.github.io/kasm-registry/',
-    contactUrl: 'https://github.com/kodestar/kasm-registry/issues',
+    listUrl: 'https://SalaRNd.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/SalaRNd/kasm-salarnd/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
